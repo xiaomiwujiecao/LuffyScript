@@ -2,7 +2,7 @@
 
 ![LuffyScript](./icon/luffy.jpg)
 
-LuffyScript is one dymatic language for handling mutiple shell or lanuage data exchange or method call
+LuffyScript is one dynamic language for handling multiple shell or language data exchange or method call.
 
 ## License
 
